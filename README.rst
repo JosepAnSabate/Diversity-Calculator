@@ -30,7 +30,7 @@ Species Evenness
 
 Species Evenness (J') is a measure of how evenly distributed the number of observations for each species are.  It provides a critical second element of biodiversity that is not encapsulated in species richness.  Most other diversity indices are attempts at providing a single number that reflects both species richness and species evenness, but there is a specific definition for evenness.
 
-.. image:: images/evenness.PNG
+.. image:: images/diversity_calc/evenness.PNG
 
 Where H' is the Shannons diversity index.  Evenness is therefore the proportion of the measured Shannons diversity, relative to the maximum possible value for Shannon's diversity given the species richness (the natural logarithm of richness [ln R]).
 
@@ -44,7 +44,7 @@ Shannons Diversity Index (H') has its roots deep in information theory. It is an
 
 Shannons diversity index (H') is calculated according to the following formula:
 
-.. image:: images/shannons.PNG
+.. image:: images/diversity_calc/shannons.PNG
 
 where *p*\ :sub:`i` is the proportion of the total observations for each species.
 
@@ -54,7 +54,7 @@ Simpsons Diversity Index
 
 Simpsons Diversity Index (D) is very similar to Shannons Diversity Index.  It is calculated according to the following formula:
 
-.. image:: images/simpsons.PNG
+.. image:: images/diversity_calc/simpsons.PNG
 
 where *p*\ :sub:`i` is the proportion of the total observations for each species.
 
@@ -76,7 +76,7 @@ Next choose the layer containing the species **occurrance points** and the **fie
 
 Click OK and you will see a table similar to this:
 
-.. image:: images/results_table.PNG
+.. image:: images/diversity_calc/results_table.PNG
 
 
 .. toctree::
