@@ -76,7 +76,7 @@ Next choose the layer containing the species **occurrance points** and the **fie
 
 Click OK and you will see a table similar to this:
 
-.. image:: diversity_calcimages/results_table.PNG
+.. image:: diversity_calc/images/results_table.PNG
 
 
 .. toctree::
